@@ -2,7 +2,7 @@
   {
     "id": "1785248201773",
     "date": "2026-07-28T14:16:41.773Z",
-    "updatedAt": "2026-07-28T14:16:54.745Z",
+    "updatedAt": "2026-07-28T14:17:00.730Z",
     "players": [
       "P1",
       "P2",
@@ -11,31 +11,31 @@
     ],
     "numCourts": 1,
     "numRounds": 3,
-    "completedRounds": 2,
-    "finished": false,
+    "completedRounds": 3,
+    "finished": true,
     "standings": [
       {
-        "name": "P1",
-        "pts": 12,
-        "games": 2,
-        "idx": 0
-      },
-      {
         "name": "P2",
-        "pts": 10,
-        "games": 2,
+        "pts": 16,
+        "games": 3,
         "idx": 1
       },
       {
         "name": "P4",
-        "pts": 9,
-        "games": 2,
+        "pts": 15,
+        "games": 3,
         "idx": 3
       },
       {
+        "name": "P1",
+        "pts": 14,
+        "games": 3,
+        "idx": 0
+      },
+      {
         "name": "P3",
-        "pts": 7,
-        "games": 2,
+        "pts": 9,
+        "games": 3,
         "idx": 2
       }
     ]
