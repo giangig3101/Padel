@@ -50,9 +50,13 @@
     "0-0": {
       "a": 6,
       "b": 4
+    },
+    "1-0": {
+      "a": 3,
+      "b": 6
     }
   },
-  "currentRound": 1,
+  "currentRound": 2,
   "status": "playing",
   "startedAt": "2026-07-28T14:16:41.773Z"
 }
