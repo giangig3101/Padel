@@ -2,7 +2,7 @@
   {
     "id": "1785315229959",
     "date": "2026-07-29T08:53:49.960Z",
-    "updatedAt": "2026-07-29T09:35:15.505Z",
+    "updatedAt": "2026-07-29T09:35:20.065Z",
     "players": [
       "P1",
       "P2",
@@ -11,8 +11,8 @@
     ],
     "numCourts": 1,
     "numRounds": 3,
-    "completedRounds": 1,
-    "finished": false,
+    "completedRounds": 3,
+    "finished": true,
     "standings": [
       {
         "name": "P1",
