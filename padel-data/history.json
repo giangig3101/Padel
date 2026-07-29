@@ -1,5 +1,74 @@
 [
   {
+    "id": "1785317879622",
+    "date": "2026-07-29T09:37:59.623Z",
+    "updatedAt": "2026-07-29T09:38:09.263Z",
+    "players": [
+      "Sinisa",
+      "Abhinav",
+      "Gianluca",
+      "Suli",
+      "Predrag",
+      "Hizkiel",
+      "Betim",
+      "Shridar"
+    ],
+    "numCourts": 2,
+    "numRounds": 7,
+    "completedRounds": 1,
+    "finished": false,
+    "standings": [
+      {
+        "name": "Sinisa",
+        "pts": 0,
+        "games": 0,
+        "idx": 0
+      },
+      {
+        "name": "Abhinav",
+        "pts": 0,
+        "games": 0,
+        "idx": 1
+      },
+      {
+        "name": "Gianluca",
+        "pts": 0,
+        "games": 0,
+        "idx": 2
+      },
+      {
+        "name": "Suli",
+        "pts": 0,
+        "games": 0,
+        "idx": 3
+      },
+      {
+        "name": "Predrag",
+        "pts": 0,
+        "games": 0,
+        "idx": 4
+      },
+      {
+        "name": "Hizkiel",
+        "pts": 0,
+        "games": 0,
+        "idx": 5
+      },
+      {
+        "name": "Betim",
+        "pts": 0,
+        "games": 0,
+        "idx": 6
+      },
+      {
+        "name": "Shridar",
+        "pts": 0,
+        "games": 0,
+        "idx": 7
+      }
+    ]
+  },
+  {
     "id": "1785315229959",
     "date": "2026-07-29T08:53:49.960Z",
     "updatedAt": "2026-07-29T09:35:49.605Z",
