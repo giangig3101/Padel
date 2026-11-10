@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1794321527159",
+    "name": "Padel Round Robin",
+    "date": "2026-11-10T14:38:47.159Z",
+    "updatedAt": "2026-11-10T14:58:23.663Z",
+    "teams": [
+      {
+        "name": "1",
+        "p1": "g",
+        "p2": "s"
+      },
+      {
+        "name": "2",
+        "p1": "s",
+        "p2": "m"
+      },
+      {
+        "name": "3",
+        "p1": "a",
+        "p2": "s"
+      },
+      {
+        "name": "4",
+        "p1": "d",
+        "p2": "d"
+      },
+      {
+        "name": "5",
+        "p1": "c",
+        "p2": "f"
+      }
+    ],
+    "numCourts": 2,
+    "stage": "finals",
+    "status": "playing",
+    "standings": [
+      {
+        "idx": 2,
+        "name": "3",
+        "played": 4,
+        "gf": 18,
+        "ga": 12,
+        "gd": 6,
+        "directGF": 0,
+        "directGD": 0
+      },
+      {
+        "idx": 3,
+        "name": "4",
+        "played": 4,
+        "gf": 12,
+        "ga": 9,
+        "gd": 3,
+        "directGF": 0,
+        "directGD": 0
+      },
+      {
+        "idx": 4,
+        "name": "5",
+        "played": 4,
+        "gf": 11,
+        "ga": 12,
+        "gd": -1,
+        "directGF": 0,
+        "directGD": 0
+      },
+      {
+        "idx": 0,
+        "name": "1",
+        "played": 4,
+        "gf": 9,
+        "ga": 11,
+        "gd": -2,
+        "directGF": 0,
+        "directGD": 0
+      },
+      {
+        "idx": 1,
+        "name": "2",
+        "played": 4,
+        "gf": 8,
+        "ga": 14,
+        "gd": -6,
+        "directGF": 0,
+        "directGD": 0
+      }
+    ],
+    "finalOrder": [],
+    "winner": ""
+  }
+]
