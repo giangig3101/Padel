@@ -223,10 +223,18 @@
     "sf-2": {
       "a": 14,
       "b": 2
+    },
+    "final-3": {
+      "a": 2,
+      "b": 1
+    },
+    "final-1": {
+      "a": 4,
+      "b": 1
     }
   },
   "stage": "finals",
   "currentSlot": 0,
-  "status": "playing",
+  "status": "finished",
   "startedAt": "2026-11-10T14:38:47.159Z"
 }
