@@ -3,7 +3,7 @@
     "id": "1794321527159",
     "name": "Padel Round Robin",
     "date": "2026-11-10T14:38:47.159Z",
-    "updatedAt": "2026-11-10T14:58:23.663Z",
+    "updatedAt": "2026-11-10T14:58:32.715Z",
     "teams": [
       {
         "name": "1",
@@ -33,7 +33,7 @@
     ],
     "numCourts": 2,
     "stage": "finals",
-    "status": "playing",
+    "status": "finished",
     "standings": [
       {
         "idx": 2,
@@ -86,7 +86,13 @@
         "directGD": 0
       }
     ],
-    "finalOrder": [],
-    "winner": ""
+    "finalOrder": [
+      2,
+      3,
+      0,
+      4,
+      1
+    ],
+    "winner": "3"
   }
 ]
