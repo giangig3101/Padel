@@ -1,0 +1,232 @@
+{
+  "id": "1794321527159",
+  "name": "Padel Round Robin",
+  "teams": [
+    {
+      "name": "1",
+      "p1": "g",
+      "p2": "s"
+    },
+    {
+      "name": "2",
+      "p1": "s",
+      "p2": "m"
+    },
+    {
+      "name": "3",
+      "p1": "a",
+      "p2": "s"
+    },
+    {
+      "name": "4",
+      "p1": "d",
+      "p2": "d"
+    },
+    {
+      "name": "5",
+      "p1": "c",
+      "p2": "f"
+    }
+  ],
+  "numCourts": 2,
+  "leagueSlots": [
+    {
+      "id": "day-0-slot-0",
+      "title": "Matchday 1",
+      "matches": [
+        {
+          "id": "g-0-1",
+          "a": 1,
+          "b": 4,
+          "phase": "league",
+          "label": "Round Robin"
+        },
+        {
+          "id": "g-0-2",
+          "a": 2,
+          "b": 3,
+          "phase": "league",
+          "label": "Round Robin"
+        }
+      ]
+    },
+    {
+      "id": "day-1-slot-0",
+      "title": "Matchday 2",
+      "matches": [
+        {
+          "id": "g-1-0",
+          "a": 0,
+          "b": 4,
+          "phase": "league",
+          "label": "Round Robin"
+        },
+        {
+          "id": "g-1-2",
+          "a": 1,
+          "b": 2,
+          "phase": "league",
+          "label": "Round Robin"
+        }
+      ]
+    },
+    {
+      "id": "day-2-slot-0",
+      "title": "Matchday 3",
+      "matches": [
+        {
+          "id": "g-2-0",
+          "a": 0,
+          "b": 3,
+          "phase": "league",
+          "label": "Round Robin"
+        },
+        {
+          "id": "g-2-1",
+          "a": 4,
+          "b": 2,
+          "phase": "league",
+          "label": "Round Robin"
+        }
+      ]
+    },
+    {
+      "id": "day-3-slot-0",
+      "title": "Matchday 4",
+      "matches": [
+        {
+          "id": "g-3-0",
+          "a": 0,
+          "b": 2,
+          "phase": "league",
+          "label": "Round Robin"
+        },
+        {
+          "id": "g-3-1",
+          "a": 3,
+          "b": 1,
+          "phase": "league",
+          "label": "Round Robin"
+        }
+      ]
+    },
+    {
+      "id": "day-4-slot-0",
+      "title": "Matchday 5",
+      "matches": [
+        {
+          "id": "g-4-0",
+          "a": 0,
+          "b": 1,
+          "phase": "league",
+          "label": "Round Robin"
+        },
+        {
+          "id": "g-4-2",
+          "a": 3,
+          "b": 4,
+          "phase": "league",
+          "label": "Round Robin"
+        }
+      ]
+    }
+  ],
+  "semiSlots": [
+    {
+      "id": "semis-slot-0",
+      "title": "Semifinals",
+      "matches": [
+        {
+          "id": "sf-1",
+          "a": 2,
+          "b": 0,
+          "phase": "semis",
+          "label": "Semifinal 1 · 1st vs 4th"
+        },
+        {
+          "id": "sf-2",
+          "a": 3,
+          "b": 4,
+          "phase": "semis",
+          "label": "Semifinal 2 · 2nd vs 3rd"
+        }
+      ]
+    }
+  ],
+  "finalSlots": [
+    {
+      "id": "finals-slot-0",
+      "title": "Finals",
+      "matches": [
+        {
+          "id": "final-3",
+          "a": 0,
+          "b": 4,
+          "phase": "finals",
+          "label": "Third-place Match · 3rd–4th"
+        },
+        {
+          "id": "final-1",
+          "a": 2,
+          "b": 3,
+          "phase": "finals",
+          "label": "Championship Final · 1st–2nd"
+        }
+      ]
+    }
+  ],
+  "scores": {
+    "g-0-1": {
+      "a": 3,
+      "b": 2
+    },
+    "g-0-2": {
+      "a": 5,
+      "b": 3
+    },
+    "g-1-0": {
+      "a": 2,
+      "b": 3
+    },
+    "g-1-2": {
+      "a": 3,
+      "b": 5
+    },
+    "g-2-0": {
+      "a": 2,
+      "b": 3
+    },
+    "g-2-1": {
+      "a": 4,
+      "b": 5
+    },
+    "g-3-0": {
+      "a": 2,
+      "b": 3
+    },
+    "g-3-1": {
+      "a": 4,
+      "b": 0
+    },
+    "g-4-0": {
+      "a": 3,
+      "b": 2
+    },
+    "g-4-2": {
+      "a": 2,
+      "b": 2
+    },
+    "sf-1": {
+      "a": 3,
+      "b": 2
+    },
+    "sf-2": {
+      "a": 14,
+      "b": 2
+    }
+  },
+  "stage": "finals",
+  "currentSlot": 0,
+  "status": "playing",
+  "startedAt": "2026-11-10T14:38:47.159Z"
+}
